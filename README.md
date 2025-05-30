@@ -1,6 +1,6 @@
 ##  🧃Hi, I'm Mosa!
 🧠Computer Science and Information Systems student. <br>
-🍡Very new to the space of creating project outside of school.<br>
+🍡Very new to the space of creating projects outside of school.<br>
 🍄Currently learning about electron js.<br>
 🎧Outside of tech i love learning languages, currently learning my 4th and 5th language (Korean and Chinese), im a dancer and i love drawing. all things creative. 
 
